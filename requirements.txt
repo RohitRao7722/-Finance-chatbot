@@ -23,5 +23,4 @@ uvicorn
 langserve[all]
 langchain_community
 ipywidgets
-gradio
-pysqlite3
+tf-keras
